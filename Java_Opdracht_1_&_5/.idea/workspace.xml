@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6c733f14-356a-444a-b860-7d65108e7c21" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/dynamicduo/SauceLabsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/dynamicduo/SauceLabsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Neoload_Opdracht_3/DynamicDuo_Opdracht3/test.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../Neoload_Opdracht_3/DynamicDuo_Opdracht3/test.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoapUI_Opdracht_2/test.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../SoapUI_Opdracht_2/test.bat" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -210,7 +211,7 @@
       <workItem from="1575988031113" duration="441000" />
       <workItem from="1575988488969" duration="1725000" />
       <workItem from="1576750142081" duration="280000" />
-      <workItem from="1576751084968" duration="16000" />
+      <workItem from="1576751084968" duration="742000" />
     </task>
     <servers />
   </component>

@@ -1,1 +1,1 @@
-cmd.exe /C testrunner.bat -s"BasicHttpBinding_INopService TestSuite" -c"GetPaymentMethodCollection TestCase" -r -a -f"C:\Users\kel23885\OneDrive - Ordina\Bureaublad" -I "C:\Users\kel23885\OneDrive - Ordina\Documenten\school\testen\soapui\NopService-soapui-project.xml"
+cmd.exe /C testrunner.bat -s"BasicHttpBinding_INopService TestSuite" -c"GetPaymentMethodCollection TestCase" -r -a -f "reports\soapui" -I "NopService-soapui-project.xml"
