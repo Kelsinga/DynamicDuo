@@ -1,1 +1,1 @@
-gradlew test -Dbrowser=Chrome -Dversion=77 -Dplatform="Windows 10"
+gradle test --tests SauceLabsTest -Dbrowser=Chrome -Dversion=77 -Dplatform="Windows 10"

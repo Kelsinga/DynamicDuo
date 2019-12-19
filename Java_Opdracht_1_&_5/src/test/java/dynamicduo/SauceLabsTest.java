@@ -25,7 +25,6 @@ public class SauceLabsTest {
     //Create an instance of a Selenium explicit wait so that we can dynamically wait for an element
     private WebDriverWait wait;
 
-    @Disabled
     @Test
     @DisplayName("testWebshop()")
     public void testWebshop(TestInfo testInfo) throws MalformedURLException {
