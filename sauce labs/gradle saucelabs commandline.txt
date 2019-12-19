@@ -1,0 +1,1 @@
+gradlew test -Dbrowser=Chrome -Dversion=77 -Dplatform="Windows 10"
