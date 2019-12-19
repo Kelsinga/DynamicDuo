@@ -1,11 +1,11 @@
 # Project description file
 
 project.name=DynamicDuo_Opdracht3
-project.version=6.6
+project.version=7.0
 project.original.version=6.6
 product.name=NeoLoad
 product.original.name=NeoLoad
-product.version=7.0.2
+product.version=7.1.0
 product.original.version=7.0.2
 project.id=92fe420d-4cbd-4006-ac27-d3c2847553c8
 project.config.path=config.zip
